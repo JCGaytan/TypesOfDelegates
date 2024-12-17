@@ -5,13 +5,13 @@ Welcome to this guide where we explain **Events and Delegates in .NET Core** usi
 ---
 
 ## 📖 Table of Contents  
-- [English Version](#-english-version-)  
-- [Versión en Español](#-versión-en-español-)  
-- [Version en Français](#-version-en-français-)  
+- [English Version](#english-version)  
+- [Versión en Español](#versión-en-español)  
+- [Version en Français](#version-en-français)  
 
 ---
 
-## **English Version**
+## English Version
 
 ### **What are Events and Delegates?**  
 In .NET Core:  
@@ -106,7 +106,7 @@ static void Main()
 
 ---
 
-## **Versión en Español**
+## Versión en Español
 
 ### **¿Qué son los eventos y delegados?**  
 - Un **delegado** es como un **control remoto** de tu consola.  
@@ -195,7 +195,7 @@ static void Main()
 
 ---
 
-## **Version en Français**
+## Version en Français
 
 ### **Qu’est-ce que les événements et délégués ?**  
 - Un **délégué** est comme une **télécommande** pour votre console.  
